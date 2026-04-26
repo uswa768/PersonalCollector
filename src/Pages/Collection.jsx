@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import CollectionCard from '../components/CollectionCard'
-import SectionHeader from '../components/SectionHeader'
-import MarqueeBanner from '../components/MarqueeBanner'
+import CollectionCard from '../Components/CollectionCard'
+import SectionHeader from '../Components/SectionHeader'
+import MarqueeBanner from '../Components/MarqueeBanner'
 import { items } from '../data/items'
 
 const CONDITIONS = ['All', 'Excellent', 'Very Good', 'Good', 'Fair', 'Worn']
